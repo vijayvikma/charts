@@ -1,7 +1,9 @@
 **Add a Helm chart repository**
 
 helm repo add vijayvikma https://vijayvikma.github.io/charts/
+
 helm repo update
+
 helm repo list
 
 **Check available charts in the repository**
