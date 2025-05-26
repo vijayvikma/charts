@@ -17,7 +17,7 @@ entries:
   - apiVersion: v2
     appVersion: 1.17.0
     created: "2025-05-26T14:05:19.327269+05:30"
-    description: A Helm chart for Kubernetes
+    description: A Helm chart for Kubernetes 3 tier app
     digest: 3f8d9e2359b5fb0b9bde600d2f4ae3de0bebcc75bd6b9bfe5c1e3c3b46b0d9f9
     name: todo
     type: application
