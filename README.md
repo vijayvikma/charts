@@ -1,4 +1,4 @@
-helm repo add mytodo https://vijayvikma.github.io/charts/ 
+helm repo add vijayvikma https://vijayvikma.github.io/charts/ 
 
 helm repo list
 
