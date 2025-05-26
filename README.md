@@ -1,10 +1,28 @@
-helm repo add vijayvikma https://vijayvikma.github.io/charts/ 
+**Add a Helm chart repository**
 
+helm repo add vijayvikma https://vijayvikma.github.io/charts/
+helm repo update
 helm repo list
 
-helm search repo mytodo
+**Check available charts in the repository**
 
-helm install todo-release mytodo/todo
+helm search repo vijayvikama
+
+
+**Install AiOps chat bot chart in the cluster**
+helm install aiops vijayvikma/aiops --namespace aiops --create-namespace
+
+Follow the instruction on helm chart installation.
+
+<img width="1510" alt="image" src="https://github.com/user-attachments/assets/48067197-571a-4f36-8dd5-cde6eb4d3ebb" />
+
+
+
+**Install todo chart in the cluster**
+
+helm install todo-release vijayvikma/todo 
+
+
 
 kubectl get all 
 
