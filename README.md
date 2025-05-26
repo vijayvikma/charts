@@ -10,6 +10,7 @@ helm search repo vijayvikama
 
 
 **Install AiOps chat bot chart in the cluster**
+
 helm install aiops vijayvikma/aiops --namespace aiops --create-namespace
 
 Follow the instruction on helm chart installation.
