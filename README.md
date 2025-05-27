@@ -10,6 +10,7 @@ helm repo list
 ```
 helm search repo vijayvikma
 ```
+## 1) aiops chart deployment
 
 **Install AiOps chat bot chart in the cluster**
 ```
@@ -41,6 +42,10 @@ kubectl rollout restart deployment aiops-deployment --namespace aiops
 
 
 
+
+
+
+## 2) todo chart deployment
 
 
 **Install todo chart in the cluster**
