@@ -8,7 +8,7 @@ helm repo list
 
 **Check available charts in the repository**
 
-helm search repo vijayvikama
+helm search repo vijayvikma
 
 
 **Install AiOps chat bot chart in the cluster**
