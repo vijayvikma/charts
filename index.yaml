@@ -3,19 +3,19 @@ entries:
   aiops:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2025-06-22T13:55:55.118422+05:30"
+    created: "2025-06-22T14:16:29.463444+05:30"
     description: A Helm chart for AI Ops Chatbot application
-    digest: bbc08647030c5bdc64b1a2d837b39dc40166ae3597dd3496d0d6306bc624dd47
+    digest: b631b0dad1f86480a9a0f0a68524dadc818d74617a643f869269f93acb45a33c
     maintainers:
     - name: Vijay Vikama
     name: aiops
     type: application
     urls:
-    - https://github.com/vijayvikma/charts/aiops-2.0.0.tgz
+    - https://vijayvikma.github.io/charts/aiops-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-06-22T13:55:55.113854+05:30"
+    created: "2025-06-22T14:16:29.456491+05:30"
     description: A Helm chart for AI Ops Chatbot application
     digest: 0aa54639c2f5b9aa8bf06f741fac8a28f769b964315d866cfb01bb614a38b4d5
     maintainers:
@@ -23,17 +23,17 @@ entries:
     name: aiops
     type: application
     urls:
-    - https://github.com/vijayvikma/charts/aiops-1.0.0.tgz
+    - https://vijayvikma.github.io/charts/aiops-1.0.0.tgz
     version: 1.0.0
   todo:
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2025-06-22T13:55:55.134666+05:30"
+    created: "2025-06-22T14:16:29.465215+05:30"
     description: A Helm chart for Kubernetes
     digest: 3f8d9e2359b5fb0b9bde600d2f4ae3de0bebcc75bd6b9bfe5c1e3c3b46b0d9f9
     name: todo
     type: application
     urls:
-    - https://github.com/vijayvikma/charts/todo-0.1.1.tgz
+    - https://vijayvikma.github.io/charts/todo-0.1.1.tgz
     version: 0.1.1
-generated: "2025-06-22T13:55:55.108938+05:30"
+generated: "2025-06-22T14:16:29.452514+05:30"
